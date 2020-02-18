@@ -8,7 +8,7 @@ body{
 	background-repeat: no-repeat;
 	background-position: relative;
 	background-attachment: fixed;
-	background-size: 1800px 850px;
+	background-size: 100% 100%;
 }
 ul{
 	float: right;
@@ -54,12 +54,12 @@ ul li a:hover{
 }
 .title{
 	position: absolute;
-	top: 85%;
+	top: 90%;
 	left: 25%;
 	transform: translate(-50%;-50%);
 }
 .title h1{
 	font-family: sans-serif;
 	color: #4B0082;
-	font-size: 50px;
+	font-size: 45px;
 }
